@@ -1,23 +1,6 @@
 # LeetCode in C
 
-This repository contains my solutions to selected LeetCode problems, implemented in **C** to demonstrate mastery of low-level algorithm design and memory-efficient programming.
-
-Although I’m proficient in Python, I chose C for its performance and control over memory — making it ideal for practicing algorithmic thinking and system-level optimization.
-
----
-
-## 📁 Folder Structure
-
-```
-📂 leetcode-c
-├── easy/
-│   ├── two_sum.c
-├── medium/
-│   ├── add_two_numbers.c
-├── hard/
-│   ├── merge_k_sorted_lists.c
-└── README.md
-```
+This repository contains my solutions to selected LeetCode problems, implemented in **C** to demonstrate mastery of algorithm design and memory-efficient programming.
 
 ---
 
@@ -25,33 +8,12 @@ Although I’m proficient in Python, I chose C for its performance and control o
 
 | Difficulty | Solved | Total |
 |------------|--------|-------|
-| Easy       | ✅ 1   | 500+  |
-| Medium     | ✅ 1   | 1300+ |
-| Hard       | ✅ 1   | 500+  |
-
-> Updated regularly.
+| Easy       | ✅ 0   | 500+  |
+| Medium     | ✅ 0   | 1300+ |
+| Hard       | ✅ 0   | 500+  |
 
 ---
 
-## 🛠️ Build & Run
-
-To compile a solution:
-
-```bash
-gcc -o solution easy/two_sum.c
-./solution
-```
-
----
-
-## 🧠 Why C?
-
-- High performance and minimal overhead.
-- Manual memory management (good for learning).
-- C forces algorithmic clarity and precision.
-- Rarely used in interviews today, but highly respected.
-
----
 
 ## 🧩 Topics Covered
 
