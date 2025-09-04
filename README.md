@@ -1,6 +1,6 @@
-# LeetCode in C
+# LeetCode in Py
 
-This repository contains my solutions to selected LeetCode problems, implemented in **C** to demonstrate mastery of algorithm design and memory-efficient programming.
+This repository contains my solutions to selected LeetCode problems, implemented in **Py** to demonstrate mastery of algorithm design and memory-efficient programming.
 
 ---
 
